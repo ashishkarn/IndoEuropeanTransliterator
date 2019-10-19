@@ -51,7 +51,7 @@ You all have heard your chacha and mama talk about how Sanskrit/Tamil/bla/bla is
 
 https://en.wikipedia.org/wiki/Indo-European_languages#/media/File:Indo-European_branches_map.svg
 
-These languages are part of the same family. They have a lot of similarities like grammatic rules, sentence structuring, loan words, cognates etc. So next time you make fun of someone speaking bhojpuri, remember how it belongs to the same family of languages as Spanish, that you spoke while imagining romancing your love.
+These languages are part of the same family. They have a lot of similarities like grammatic rules, sentence structuring, loan words, cognates etc. So next time you make fun of someone speaking bhojpuri, remember how it belongs to the same family of languages as French, that you spoke while imagining romancing your love on top of Eiffel Tower.
 
 There is a lot to talk about language families and their similarities and differences that I won't do.
 
