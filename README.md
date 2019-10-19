@@ -57,6 +57,9 @@ There is a lot to talk about language families and their similarities and differ
 
 https://en.wikipedia.org/wiki/Indo-European_languages
 
+And, why are we trying to scope more than two languages?
+Because it's hard.
+
 # Application
 
 First of all, Google's transliterator is not good at all. That's why they have a 'try'.
